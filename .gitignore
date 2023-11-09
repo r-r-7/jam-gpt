@@ -1,0 +1,11 @@
+
+#  models
+# md-test-01/
+
+# model
+# *.bin
+
+__pycache__/
+*.pyc
+.pypirc
+dist/
