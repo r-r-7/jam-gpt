@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: jam-gpt
+Version: 0.1
+Summary: A reimplementation of large language model (LLM) architectures designed for research and development processes
+Home-page: https://github.com/Lokeshwaran-M/jam-gpt.git
+Author: Lokeshwaran M
+Author-email: lokeshwaran.m23072003@gmail.com
+License: MIT
+Keywords: Jam-AI jam-gpt
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: MIT License
+Classifier: Programming Language :: Python :: 3.11
+License-File: LICENSE
