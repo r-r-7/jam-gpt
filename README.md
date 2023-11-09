@@ -28,7 +28,7 @@ pip install git+https://github.com/Lokeshwaran-M/jam-gpt.git
 
 ## Usage :
 
-Refere [Docs](./docs/jam-gpt.md) or [test-bgLM.ipynb](test-bgLM.ipynb) and [test-gptLM.ipynb](test-gptLM.ipynb) for code examples
+Refer [Docs](./docs/jam-gpt.md) or [test-bgLM.ipynb](test-bgLM.ipynb) and [test-gptLM.ipynb](test-gptLM.ipynb) for code examples
 
 ```python
 
@@ -68,7 +68,7 @@ print(res)
 
 ## Contribution :
 
-for contribution guidelines and terms and condition to contribute refere [jam-contribution](https://github.com/Lokeshwaran-M/jam-contribution.git) by rasing the PR you are accepting the terms and condition
+for contribution guidelines and terms and condition to contribute refer [jam-contribution](https://github.com/Lokeshwaran-M/jam-contribution.git) by rasing the PR you are accepting the terms and condition
 
 Any form of contribution is accepted here
 
